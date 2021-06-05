@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @harviator aka Jon
-- 👀 I’m interested in coding things that will help people
-- 🌱 I’m currently learning how to be a full stack developer with the UofT Code Boot Camp
-- I'm a pilot who decided to start a second career coding
+- 👋  Hi, I’m @harviator aka Jon
+- 👀  I’m interested in coding things that will help people
+- 🌱  I’m currently learning how to be a full stack developer with the UofT Code Boot Camp
+-  I'm a pilot who decided to start a second career coding
 - 📫 How to reach me harviator@gmail.com
 
 <!---
